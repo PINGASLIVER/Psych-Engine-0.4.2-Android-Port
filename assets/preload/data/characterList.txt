@@ -19,3 +19,11 @@ senpai-angry
 spirit
 bf-pixel-opponent
 pico-player
+tricky
+trickyMask
+extricky
+helltricky
+gf-helltricky
+gf-extricky
+bf-hellclown
+bf-extricky
